@@ -3,7 +3,7 @@ Raytracer based on 'Raytracing in a weekend' by Peter Shirley
 
 
 ## How does it work
-The program calculates pixel values and outputs them into a ppm file
+The program generates a random scene and passes rays from the camera. the result of each pixel is then written in a ppm file.
 
 
 ## Does it work
